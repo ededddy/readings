@@ -11,4 +11,5 @@ Collection of articles/papers that I have read.
 
 1. [x] [How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence](https://arxiv.org/abs/2004.12158)
 2. [x] [Lawformer: A Pre-trained Language Model for Chinese Legal Long Documents](https://arxiv.org/abs/2105.03887)
-3. [x] [Building Legal Case Retrieval Systems with Lexical Matching and Summarization using A Pre-Trained Phrase Scoring Model](https://arxiv.org/abs/2009.14083) NOTE: Didn't read the math.
+3. [x] [Building Legal Case Retrieval Systems with Lexical Matching and Summarization using A Pre-Trained Phrase Scoring Model](https://arxiv.org/abs/2009.14083)  
+   NOTE: Didn't read the math.
